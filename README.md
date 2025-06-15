@@ -108,6 +108,9 @@ wget https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt -
 # SFA3D pre-trained model (if not included)
 # Download from original repository or train from scratch
 ```
+### 5.Download FPN_RESNET_PRETRAINED MODEL
+LIKE THE REPO PLEASE
+https://drive.google.com/drive/folders/1Fr53REoiy-RqwqbTWseZvg-5qn1-mrus?usp=sharing
 
 ## 📊 Dataset Preparation
 
