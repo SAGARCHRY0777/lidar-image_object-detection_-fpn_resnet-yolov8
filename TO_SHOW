@@ -1,0 +1,7 @@
+python test2.py --peak_thresh 0.2
+
+python test2.py --peak_thresh 0.2 --enable_kfpn_viz
+
+python test_bev.py --gpu_idx 0 --pretrained_path D:\kitti_data\Complex-YOLOv4-Pytorch\checkpoints\complex_yolov4\complex_yolov4_mse_loss.pth --cfgfile D:\kitti_data\Complex-YOLOv4-Pytorch\src\config\cfg\complex_yolov4.cfg --show_image --visualize_lidar
+
+this is for the lidar in complex_yolov4
